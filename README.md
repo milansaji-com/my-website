@@ -3,4 +3,4 @@
 
 ## Preview
 
-![Website Preview](file:///C:/Users/lenov/OneDrive/Desktop/!DOCTYPE%20html.html)
+![Website Preview](https://milansaji-com.github.io/my-website/)
